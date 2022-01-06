@@ -1,0 +1,19 @@
+----------- INVOICE -----------
+item 1  Type: parcel  Destination:Bahrain  Weight: 20.0kg  Size: small  Price: $205.96
+item 2  Type: letter  Destination:Bahrain  Weight: 2kg  Size: small  Price: $94.59
+
+ Total cost : $300.55
+
+THANK YOU FOR SHOPPING WITH US
+
+---------- End INVOICE ----------
+
+--------- Purchased Stamps --------
+parcel
+Destination: Bahrain   Weight: 20.0kg
+-----------------------------------
+
+--------- Purchased Stamps --------
+letter
+Destination: Bahrain   Weight: 2kg
+-----------------------------------
